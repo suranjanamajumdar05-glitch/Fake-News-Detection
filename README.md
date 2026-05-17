@@ -25,21 +25,14 @@ The system preprocesses news text, converts it into numerical features using TF-
 4. date
 
 # Machine Learning Workflow
-Data Collection
-       ↓
-Data Preprocessing
-       ↓
-Text Cleaning
-       ↓
-TF-IDF Vectorization
-       ↓
-Train-Test Split
-       ↓
-Logistic Regression Model
-       ↓
-Prediction
-       ↓
-Evaluation
+1. Data Collection
+2. Data Preprocessing
+3. Text Cleaning
+4. TF-IDF Vectorization
+5. Train-Test Split
+6. Logistic Regression Model
+7. Prediction
+8. Evaluation
 
 # Text Preprocessing Techniques
 1. Lowercase conversion
@@ -53,3 +46,16 @@ Evaluation
 Logistic Regression is used for binary classification:
 Fake News - 0
 Real News - 1
+
+# Feature Extraction
+TF-IDF Vectorization is used to convert textual news data into numerical vectors.
+
+# Evaluation Metrics
+1. Accuracy Score
+2. Confusion Matrix
+3. Classification Report
+4. Precision
+5. Recall
+6. F1-Score
+
+# Conclusion
