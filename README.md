@@ -59,3 +59,4 @@ TF-IDF Vectorization is used to convert textual news data into numerical vectors
 6. F1-Score
 
 # Conclusion
+This project demonstrates how Machine Learning can be used effectively for fake news classification using traditional ML techniques.
